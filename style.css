@@ -1,0 +1,39 @@
+body{
+    background-color: #FFB6C1;
+}
+h1{
+    text-align: center;
+    padding-top:  10px;
+}
+/* BUTTONS */
+.button,.main-button{
+    color: black;
+    background-color: #FFB6C1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 12px;
+    border: 0;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.button{
+    margin: 5px;
+}
+/* div */
+.main-div{
+    margin: auto;
+    margin-top: 70px;
+    width: 300px;
+    background-color: #FFB6C1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    min-height: 300px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.f_div{
+    margin: auto;
+    background-image: url(background_img.jpg);
+    height: 100px;
+    width: 300px;
+    padding-top: 140px;
+    text-align: center;
+}
